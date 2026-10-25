@@ -1,0 +1,38 @@
+{
+ "query": [
+    {
+      "code": "ammatti_19_20180101",
+      "selection": {
+        "filter": "item",
+        "values": [
+          "221",
+          "226",
+          "2262",
+          "2423",
+          "26351",
+          "3141",
+          "32211",
+          "32212",
+          "3258",
+          "34121",
+          "8322",
+          "8331",
+          "SSS"  
+        ]
+      }
+    },
+    {
+      "code": "contentscode",
+      "selection": {
+        "filter": "item",
+        "values": [
+          "psaaja_tunti_kans_ka",
+          "psaaja_tunti_kans_med"
+        ]
+      }
+    }
+ ],
+ "response": {
+    "format": "csv"
+ }
+}

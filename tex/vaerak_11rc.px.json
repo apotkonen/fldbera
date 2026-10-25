@@ -1,0 +1,27 @@
+{
+  "query": [
+    {
+      "code": "timeperiod_y",
+      "selection": {
+        "filter": "item",
+        "values": [
+          "2025"
+        ]
+      }
+    },
+    {
+      "code": "ikaryhma_10_20180101",
+      "selection": {
+        "filter": "item",
+        "values": [
+          "75-79",
+          "80-84",
+          "85-"
+        ]
+      }
+    }
+  ],
+  "response": {
+    "format": "csv"
+  }
+}

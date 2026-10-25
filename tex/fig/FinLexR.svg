@@ -1,0 +1,20 @@
+<svg height="180" width="180">
+<rect width="181" height="181" x="0" y="0" fill="royalblue"/>
+<rect width="24" height="73" x="21" y="37" rx="0" ry="0" fill="white"/>
+<rect width="24" height="53" x="50" y="57" rx="0" ry="0" fill="white"/>
+<rect width="24" height="73" x="79" y="37" rx="0" ry="0" fill="white"/>
+<rect width="24" height="53" x="108" y="57" rx="0" ry="0" fill="white"/>
+<rect width="24" height="53" x="137" y="57" rx="0" ry="0" fill="white"/>
+<ellipse rx="12" ry="5" cx="33" cy="37" fill="white"/>
+<ellipse rx="12" ry="5" cx="62" cy="57" fill="white"/>
+<ellipse rx="12" ry="5" cx="91" cy="37" fill="white"/>
+<ellipse rx="12" ry="5" cx="120" cy="57" fill="white"/>
+<ellipse rx="12" ry="5" cx="149" cy="57" fill="white"/>
+<ellipse rx="12" ry="5" cx="33" cy="111" fill="royalblue"/>
+<ellipse rx="12" ry="5" cx="62" cy="111" fill="royalblue"/>
+<ellipse rx="12" ry="5" cx="91" cy="111" fill="royalblue"/>
+<ellipse rx="12" ry="5" cx="120" cy="111" fill="royalblue"/>
+<ellipse rx="12" ry="5" cx="149" cy="111" fill="royalblue"/>
+<text x="18" y="144" fill="white" font-family='Noto Sans' font-size="31">F I N L E X</text>
+<text x="161" y="130" fill="white" font-family='Noto Sans' font-size="7">®</text>
+</svg> 
